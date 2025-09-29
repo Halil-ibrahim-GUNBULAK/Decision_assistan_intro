@@ -1,6 +1,8 @@
-# Decision_assistan_intro
+# Decision Asistant
 # Alışkanlık Takibi ve Karar Verme Uygulaması
-
+Uygulama :
+[AppStore](https://apps.apple.com/us/app/daily-habits-goal-tracker/id6746100782)  
+[PlayStore](https://play.google.com/store/apps/details?id=com.higcompany.habit_tracking_and_decision_assistant)  
 Bu uygulama, kullanıcıların günlük alışkanlıklarını takip etmelerini ve daha sağlıklı kararlar almalarını kolaylaştırmak amacıyla geliştirilmiştir. Kullanıcılar pozitif ve negatif alışkanlıklarını kaydedebilir, tarih bazlı analizler yapabilir ve zamanla davranışlarını gözlemleyebilir.
 
 ## 📱 Özellikler
